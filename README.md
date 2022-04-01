@@ -42,16 +42,16 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 [Link to GIF](https://imgur.com/a/vCgSoDI.gif)
 
 ## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. <br />
 N/A
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) <br />
 I have prior experience in web development, so creating this submission was straightforward.
 
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) <br />
 I have prior experience in web development, so while creating this was fun, I didn't learn anything new. However, I have always been curious about the differences between TypeScript and JavaScript, as I have never coded in TypeScript myself. What are the fundamental differences between the languages, and are there specific situations where one language serves a better purpose than the other?
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) <br />
 If I had the additional time, I would have implemented most of the optional features. Ideally, I would have created 8 buttons, each with different pitches so that all 8 buttons resemble a complete musical octave. I would have made the playback speed increase by 1.1x each turn, and I would have randomized the order of the pitches for each turn by using the Math.random() function. I would have also implemented the countdown timer of 15 seconds per turn.
 
 
