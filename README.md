@@ -57,7 +57,7 @@ If I had the additional time, I would have implemented most of the optional feat
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/d7800a4e00a64fbd9e6957e13f00885f)
 
 
 ## License
